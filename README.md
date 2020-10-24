@@ -29,7 +29,7 @@ paper:https://arxiv.org/pdf/0912.3995
 ### Max value Entropy Search (MES)
 Using mutual information with the optimal value.
 I sampled the optimal values using sampling from the Gumbel distribution.
-A method of sampling the optimal value using randam feature map is also proposed in the paper.
+A method of sampling the optimal value using randam feature map is also proposed in following paper.
 
 paper:https://arxiv.org/pdf/1703.01968
 
