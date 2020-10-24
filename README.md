@@ -26,7 +26,7 @@ In GP-UCB,  β^{1/2} is determined according to iterations and in the following 
 
 paper:https://arxiv.org/pdf/0912.3995
 
-### Max value Entropy Search (MES)
+### Maxvalue Entropy Search (MES)
 Using mutual information with the optimal value.
 I sampled the optimal values using sampling from the Gumbel distribution.
 A method of sampling the optimal value using randam feature map is also proposed in the following paper.
