@@ -29,10 +29,10 @@ paper: [Gaussian process optimization in the bandit setting: no regret and exper
 
 ### Max-value Entropy Search (MES)
 Using mutual information between the optimal value and function value at observation point .
-I sampled the optimal values using sampling from the Gumbel distribution.
+I sampled the optimal values using sampling from Gumbel distribution.
 A method of sampling the optimal value using randam feature map is also proposed in the following paper.
 
-paper: [Max-value entropy search for efficient Bayesian optimization](https://arxiv.org/pdf/1703.01968) (NeurIPS 2019)
+paper: [Max-value entropy search for efficient Bayesian optimization](https://arxiv.org/pdf/1703.01968) (ICML 2017)
 
 ## Plot
 ### PI
